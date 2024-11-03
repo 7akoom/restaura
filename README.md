@@ -1,8 +1,6 @@
 # Restaura restaurant
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Demo link
+Demo link [Restaura](https://restaura-chi.vercel.app/)
 
 Screenshots
 
@@ -17,9 +15,3 @@ Screenshots
 ![Screenshot 2024-11-03 114455](https://github.com/user-attachments/assets/2c3980f1-39ee-443f-b782-07db1a87936e)
 
 ![Screenshot 2024-11-03 114639](https://github.com/user-attachments/assets/09cf13b1-b585-45c1-9192-e202b7b5c27d)
-
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
