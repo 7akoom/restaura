@@ -1,8 +1,9 @@
 # Restaura restaurant
 
-Demo link [Restaura](https://restaura-chi.vercel.app/)
+# Demo
+[Restaura](https://restaura-chi.vercel.app/)
 
-Screenshots
+# Screenshots
 
 ![Screenshot 2024-11-03 114246](https://github.com/user-attachments/assets/df6dbbfb-cfb2-4707-aab8-af64b790bcdc)
 
